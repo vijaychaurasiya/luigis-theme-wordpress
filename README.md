@@ -2,7 +2,7 @@
 Converting form HTML to Wordpress Theme
 
 ##### Plugins used
-  - Advanced Custom Fields Pro
+  - Advanced Custom Fields 
   - Contact Form 7
 
 ##### Pages
